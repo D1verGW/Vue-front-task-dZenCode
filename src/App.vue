@@ -20,6 +20,7 @@
         margin: 0;
         padding: 0;
         border: none;
+        font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     }
 
     .app {

@@ -30,6 +30,7 @@
         display: flex;
         flex-direction: column;
         margin: auto;
+        align-items: center;
 
         a {
             padding-top: 5px;
